@@ -1,0 +1,10 @@
+{
+  "name": "node-gala",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "multer": "^1.2.1"
+  }
+}
